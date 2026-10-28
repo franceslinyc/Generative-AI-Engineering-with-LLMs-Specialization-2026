@@ -3,7 +3,7 @@ Programming assignments for Generative AI Engineering with LLMs Specialization b
 
 ## Description 
 
-Build RAG (retrieval-augmented generation) pipelines and AI Agents for language translation and QA bot using **Python** and **PyTorch**, utilizing **Hugging Face** and **LangChain** for LLMs fine-tuning and orchestration (Llama, GPT, and BERT). Programming assignments for Generative AI Engineering with LLMs Specialization on Coursera. 
+Build RAG (retrieval-augmented generation) pipelines and AI Agents for language translation and QA bot using **Python** and **PyTorch**, utilizing **Hugging Face** and **LangChain** for LLMs fine-tuning and orchestration (Llama, GPT, and BERT). Capstone project for Generative AI Engineering with LLMs Specialization on Coursera. 
 
 ## Documentation
 
